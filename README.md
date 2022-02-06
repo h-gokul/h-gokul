@@ -13,15 +13,10 @@
   <a href="https://scholar.google.com/citations?user=mkap0DoAAAAJ&hl=en&gmla=AJsN-F6K0E0CLtRNIEB73tLuNfE59o-3GE_p8f_egl-jgck2SyPBG9CeX7zKvksUyBJ0WU4VOfATiNDsiIeSbjpGL4YzbjuAEVrmUA5K5inw18x13CQo-g8lw8WCcgXzS_Nqvi3_Eszr/"><img width="32px" alt="Google Scholar" title="Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="hgokul@terpmail.umd.edu"><img width="52px" alt="Mail ID" title="Mail ID" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/></a>
-
-
-
-
 </p>
 
 
 <h3 align="center">
-
 <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="28">  Welcome to Gokul Hari's profile! <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="28">
 </h3>
 
@@ -52,7 +47,7 @@ Geometric Vision
 Supervised High-level Vision
 </h2>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/h-gokul/pbLite-DL"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=pbLite-DL&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="pbLite-DL"></a>
     <a href="https://github.com/h-gokul/superpixel-segmentation-with-slic"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=superpixel-segmentation-with-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="superpixel-segmentation-with-slic"></a>
     <a href="https://github.com/h-gokul/differentiable-slic"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=differentiable-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="differentiable-slic"></a> 
@@ -62,7 +57,7 @@ Supervised High-level Vision
 <h2 align="center">
 Research Codebase
 </h2>
-<p align="left">
+<p align="center">
     <a href="https://github.com/h-gokul/ParkinsonsGaitAssist"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ParkinsonsGaitAssist&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="ParkinsonsGaitAssist"></a>
     <a href="https://github.com/h-gokul/Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm"></a>
     <a href="https://github.com/h-gokul/ASLglove"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ASLglove&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="ASLglove"></a>
@@ -73,7 +68,7 @@ Research Codebase
 Other Projects
 </h2>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/h-gokul/LQR-control-pendulum"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=LQR-control-pendulum&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="LQR-control-pendulum"></a>
     <a href="https://github.com/h-gokul/SnakeBot"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=SnakeBot&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="SnakeBot"></a>
     <a href="https://github.com/h-gokul/EMIRNN"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=EMIRNN&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="EMIRNN"></a>
@@ -85,7 +80,7 @@ Other Projects
 </p>
 
 <!-- Language and stats -->
-<p align="left">
+<p align="center">
     <a href=" "><img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=h-gokul&count_private=true&theme=dark" alt="Stats"></a>
     <a href=" "><img width="300" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=h-gokul&count_private=true&theme=dark" alt="Stats"></a>    
     <a href=" "><img img width="250" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-gokul&layout=compact&count_private=true&theme=dark" alt="Top Languages"></a>
