@@ -37,15 +37,15 @@ Geometric Vision
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-    <a href="https://github.com/h-gokul/sfm_dl"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=sfm_dl&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="sfm-dl"></a>
-    <a href="https://github.com/h-gokul/SFM"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=SFM&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="SFM"></a>
-    <a href="https://github.com/h-gokul/AutoPano"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=AutoPano&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AutoPano"></a>    
-    <a href="https://github.com/h-gokul/FaceSwap"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=FaceSwap&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="FaceSwap"></a>
-    <a href="https://github.com/h-gokul/VisualOdometry"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=VisualOdometry&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="VisualOdometry"></a>       
-    <a href="https://github.com/h-gokul/StereoDepthEstimation"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=StereoDepthEstimation&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="StereoDepthEstimation"></a>
-    <a href="https://github.com/h-gokul/AutoCalib"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=AutoCalib&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AutoCalib"></a>
-    <a href="https://github.com/h-gokul/KFNet-study"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=KFNet-study&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="KFNet-study"></a>
+<p align="center">
+    <a href="https://github.com/h-gokul/sfm_dl"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=sfm_dl&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="sfm-dl"></a>
+    <a href="https://github.com/h-gokul/SFM"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=SFM&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="SFM"></a>
+    <a href="https://github.com/h-gokul/AutoPano"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=AutoPano&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AutoPano"></a>    
+    <a href="https://github.com/h-gokul/FaceSwap"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=FaceSwap&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="FaceSwap"></a>
+    <a href="https://github.com/h-gokul/VisualOdometry"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=VisualOdometry&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="VisualOdometry"></a>       
+    <a href="https://github.com/h-gokul/StereoDepthEstimation"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=StereoDepthEstimation&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="StereoDepthEstimation"></a>
+    <a href="https://github.com/h-gokul/AutoCalib"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=AutoCalib&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AutoCalib"></a>
+    <a href="https://github.com/h-gokul/KFNet-study"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=KFNet-study&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="KFNet-study"></a>
 </p>
 
 <h2 align="center">
@@ -53,9 +53,9 @@ Supervised High-level Vision
 </h2>
 
 <p align="left">
-    <a href="https://github.com/h-gokul/pbLite-DL"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=pbLite-DL&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="pbLite-DL"></a>
-    <a href="https://github.com/h-gokul/superpixel-segmentation-with-slic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=superpixel-segmentation-with-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="superpixel-segmentation-with-slic"></a>
-    <a href="https://github.com/h-gokul/differentiable-slic"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=differentiable-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="differentiable-slic"></a> 
+    <a href="https://github.com/h-gokul/pbLite-DL"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=pbLite-DL&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="pbLite-DL"></a>
+    <a href="https://github.com/h-gokul/superpixel-segmentation-with-slic"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=superpixel-segmentation-with-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="superpixel-segmentation-with-slic"></a>
+    <a href="https://github.com/h-gokul/differentiable-slic"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=differentiable-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="differentiable-slic"></a> 
 </p>
 
 
@@ -63,9 +63,9 @@ Supervised High-level Vision
 Research Codebase
 </h2>
 <p align="left">
-    <a href="https://github.com/h-gokul/ParkinsonsGaitAssist"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ParkinsonsGaitAssist&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="ParkinsonsGaitAssist"></a>
-    <a href="https://github.com/h-gokul/Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm"></a>
-    <a href="https://github.com/h-gokul/ASLglove"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ASLglove&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="ASLglove"></a>
+    <a href="https://github.com/h-gokul/ParkinsonsGaitAssist"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ParkinsonsGaitAssist&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="ParkinsonsGaitAssist"></a>
+    <a href="https://github.com/h-gokul/Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="Human-Robot-Interactive-Systems-for-a-3-DOF-Robotic-Arm"></a>
+    <a href="https://github.com/h-gokul/ASLglove"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ASLglove&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="ASLglove"></a>
 </p>
 
 
@@ -74,10 +74,10 @@ Other Projects
 </h2>
 
 <p align="left">
-    <a href="https://github.com/h-gokul/LQR-control-pendulum"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=LQR-control-pendulum&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="LQR-control-pendulum"></a>
-    <a href="https://github.com/h-gokul/SnakeBot"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=SnakeBot&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="SnakeBot"></a>
-    <a href="https://github.com/h-gokul/EMIRNN"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=EMIRNN&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="EMIRNN"></a>
-    <a href="https://github.com/h-gokul/HHAR-Using_HARnet"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=HHAR-Using_HARnet&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="HHAR-Using_HARnet"></a>    
+    <a href="https://github.com/h-gokul/LQR-control-pendulum"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=LQR-control-pendulum&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="LQR-control-pendulum"></a>
+    <a href="https://github.com/h-gokul/SnakeBot"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=SnakeBot&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="SnakeBot"></a>
+    <a href="https://github.com/h-gokul/EMIRNN"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=EMIRNN&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="EMIRNN"></a>
+    <a href="https://github.com/h-gokul/HHAR-Using_HARnet"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=HHAR-Using_HARnet&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=false&show_icons=false" alt="HHAR-Using_HARnet"></a>    
 </p>
 <!-- All repos link -->
 <p align="center">
