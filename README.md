@@ -1,3 +1,13 @@
+
+<h1 align="center">
+<img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="28">  Welcome to Gokul Hari's profile! <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="28">
+</h1>
+
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230ABC8C&duration=7000&center=true&lines=Robotics+Research+Assistant)](https://git.io/typing-svg)
+</h3>
+
 <!-- Social icons section -->
 <p align="center">
   <!-- <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> -->
@@ -15,15 +25,6 @@
   <a href="hgokul@terpmail.umd.edu"><img width="52px" alt="Mail ID" title="Mail ID" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/></a>
 </p>
 
-
-<h3 align="center">
-<img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="28">  Welcome to Gokul Hari's profile! <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="28">
-</h3>
-
-<h3 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230ABC8C&duration=7000&center=true&lines=Robotics+Research+Assistant)](https://git.io/typing-svg)
-</h3>
 
 
 <h2 align="center">
