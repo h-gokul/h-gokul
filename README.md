@@ -12,17 +12,17 @@
 <p align="center">
   <!-- <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> -->
   <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
-<a href="https://prg.cs.umd.edu/"><img width="32px" alt="Mail ID" title="Mail ID" src="https://prg.cs.umd.edu/img/logo/prg-white.png"/></a>
+<a href="https://prg.cs.umd.edu/"><img width="24px" alt="Mail ID" title="Mail ID" src="https://prg.cs.umd.edu/img/logo/prg-white.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/gokul._h_/?hl=en" alt="Instagram"><img width="32px" src="https://i.imgur.com/M6yBwxS.png"/></a>
+  <a href="https://www.instagram.com/gokul._h_/?hl=en" alt="Instagram"><img width="24px" src="https://i.imgur.com/M6yBwxS.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.com/vigneshr2306/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"></a>
+  <a href="https://leetcode.com/vigneshr2306/"><img width="24px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/hgokul7/"><img width="32px" alt="Ko-fi" title="Linked In" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/></a>
+  <a href="https://www.linkedin.com/in/hgokul7/"><img width="24px" alt="Ko-fi" title="Linked In" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://scholar.google.com/citations?user=mkap0DoAAAAJ&hl=en&gmla=AJsN-F6K0E0CLtRNIEB73tLuNfE59o-3GE_p8f_egl-jgck2SyPBG9CeX7zKvksUyBJ0WU4VOfATiNDsiIeSbjpGL4YzbjuAEVrmUA5K5inw18x13CQo-g8lw8WCcgXzS_Nqvi3_Eszr/"><img width="32px" alt="Google Scholar" title="Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"/></a>
+  <a href="https://scholar.google.com/citations?user=mkap0DoAAAAJ&hl=en&gmla=AJsN-F6K0E0CLtRNIEB73tLuNfE59o-3GE_p8f_egl-jgck2SyPBG9CeX7zKvksUyBJ0WU4VOfATiNDsiIeSbjpGL4YzbjuAEVrmUA5K5inw18x13CQo-g8lw8WCcgXzS_Nqvi3_Eszr/"><img width="24px" alt="Google Scholar" title="Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="hgokul@terpmail.umd.edu"><img width="52px" alt="Mail ID" title="Mail ID" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/></a>
+  <a href="hgokul@terpmail.umd.edu"><img width="26px" alt="Mail ID" title="Mail ID" src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"/></a>
 </p>
 
 
