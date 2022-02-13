@@ -42,17 +42,13 @@ Geometric Vision
     <a href="https://github.com/h-gokul/StereoDepthEstimation"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=StereoDepthEstimation&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="StereoDepthEstimation"></a>
     <a href="https://github.com/h-gokul/AutoCalib"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=AutoCalib&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AutoCalib"></a>
     <a href="https://github.com/h-gokul/KFNet-study"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=KFNet-study&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="KFNet-study"></a>
-</p>
-
-<h2 align="center">
-Supervised High-level Vision
-</h2>
-
-<p align="center">
     <a href="https://github.com/h-gokul/pbLite-DL"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=pbLite-DL&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="pbLite-DL"></a>
-    <a href="https://github.com/h-gokul/superpixel-segmentation-with-slic"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=superpixel-segmentation-with-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="superpixel-segmentation-with-slic"></a>
     <a href="https://github.com/h-gokul/differentiable-slic"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=differentiable-slic&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="differentiable-slic"></a> 
+
+
 </p>
+
+
 
 
 <h2 align="center">
