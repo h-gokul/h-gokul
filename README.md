@@ -64,7 +64,6 @@ Research Codebase
 <h2 align="center">
 Other Projects
 </h2>
-
 <p align="center">
     <a href="https://github.com/h-gokul/LQR-control-pendulum"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=LQR-control-pendulum&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="LQR-control-pendulum"></a>
     <a href="https://github.com/h-gokul/ros-robots"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ros-robots&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="SnakeBot"></a>
