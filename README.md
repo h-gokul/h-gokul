@@ -67,7 +67,7 @@ Other Projects
 
 <p align="center">
     <a href="https://github.com/h-gokul/LQR-control-pendulum"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=LQR-control-pendulum&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="LQR-control-pendulum"></a>
-    <a href="https://github.com/h-gokul/SnakeBot"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=SnakeBot&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="SnakeBot"></a>
+    <a href="https://github.com/h-gokul/ros-robots"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ros-robots&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="SnakeBot"></a>
     <a href="https://github.com/h-gokul/EMIRNN"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=EMIRNN&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="EMIRNN"></a>
     <a href="https://github.com/h-gokul/HHAR-Using_HARnet"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=HHAR-Using_HARnet&theme=react&bg_color=151515&title_color=%30ABC8C&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="HHAR-Using_HARnet"></a>    
 </p>
