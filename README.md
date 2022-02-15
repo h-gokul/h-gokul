@@ -43,9 +43,8 @@ Geometric Vision
 
 
 
-
 <h2 align="center">
-Research Codebase
+  Research Codebase
 </h2>
 <p align="center">
     <a href="https://github.com/h-gokul/ParkinsonsGaitAssist"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ParkinsonsGaitAssist&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="ParkinsonsGaitAssist"></a>
