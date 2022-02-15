@@ -22,6 +22,13 @@
 </p>
 
 
+<!-- Language and stats -->
+<p align="center">
+    <a href=" "><img width="200" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=h-gokul&count_private=true&theme=dark" alt="Stats"></a> 
+    <a href=" "><img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=h-gokul&count_private=true&theme=dark" alt="Stats"></a>
+    <a href=" "><img img width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-gokul&layout=compact&count_private=true&theme=dark" alt="Top Languages"></a>
+</p>
+
 
 <h2 align="center">
 ML/Vision Projects
@@ -68,10 +75,4 @@ Other Projects
     <a href="https://github.com/h-gokul?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<!-- Language and stats -->
-<p align="center">
-    <a href=" "><img width="250" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=h-gokul&count_private=true&theme=dark" alt="Stats"></a> 
-    <a href=" "><img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=h-gokul&count_private=true&theme=dark" alt="Stats"></a>
-    <a href=" "><img img width="250" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-gokul&layout=compact&count_private=true&theme=dark" alt="Top Languages"></a>
-</p>
 
