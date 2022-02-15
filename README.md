@@ -24,7 +24,7 @@
 
 
 <h2 align="center">
-Geometric Vision
+ML/Vision Projects
 </h2>
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
