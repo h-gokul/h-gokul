@@ -25,7 +25,7 @@
 <!-- Language and stats -->
 <p align="center">
     <a href=" "><img width="200" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=h-gokul&count_private=true&theme=dark" alt="Stats"></a> 
-    <a href=" "><img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=h-gokul&count_private=true&theme=dark" alt="Stats"></a>
+    <a href=" "><img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=h-gokul&count_private=true&theme=dark" alt="Stats"></a>
     <a href=" "><img img width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-gokul&layout=compact&count_private=true&theme=dark" alt="Top Languages"></a>
 </p>
 
