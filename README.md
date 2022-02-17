@@ -24,9 +24,9 @@
 
 <!-- Language and stats -->
 <p align="center">
-    <a href=" "><img width="250" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=h-gokul&count_private=true&theme=dark" alt="Stats"></a> 
-    <a href=" "><img width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=h-gokul&count_private=true&theme=dark" alt="Stats"></a>
-    <a href=" "><img img width="220" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-gokul&layout=compact&count_private=true&theme=dark" alt="Top Languages"></a>
+    <a href="https://github.com/h-gokul"><img width="250" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=h-gokul&count_private=true&theme=dark" alt="Stats"></a> 
+    <a href="https://github.com/h-gokul"><img width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=h-gokul&count_private=true&theme=dark" alt="Stats"></a>
+    <a href="https://github.com/h-gokul"><img img width="220" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-gokul&layout=compact&count_private=true&theme=dark" alt="Top Languages"></a>
 </p>
 
 
