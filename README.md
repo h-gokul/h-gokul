@@ -5,7 +5,7 @@
 </h2>
 <!-- About me -->
 <p align="center">
-Everyday, I learn more about geometric computer vision and machine learning, and I ended up with a research track record in top tier conferences like CVPR. 
+I kept working on geometric computer vision and machine learning, and I ended up with a research track record in top tier conferences like CVPR. 
 </p>
 
 
