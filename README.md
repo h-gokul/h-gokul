@@ -4,9 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&color=%23FF7700&size=40&center=true&vCenter=true&lines=Gokul+Hari)](https://git.io/typing-svg)
 </h2>
 <!-- About me -->
-<p align="center">
-I kept working on geometric computer vision and machine learning, and I ended up with a research track record in top tier conferences like CVPR. 
-</p>
 
 
 <!-- Social icons section -->
